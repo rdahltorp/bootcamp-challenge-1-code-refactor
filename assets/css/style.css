@@ -8,6 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,7 +39,7 @@ nav {
     font-size: 20px;
 }
 
-a {
+.nav-options {
     color: #ffffff;
     text-decoration: none;
     display: inline-block;
@@ -43,11 +47,6 @@ a {
 }
 /* Nav bar options ^ */
 
-
-
-p {
-    font-size: 16px;
-}
 
 #hero-background-image {
     /* Left as background image vs moving to HTML since it is a decorative image that dies not need an alt tag */
@@ -190,13 +189,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+h4 {
     font-size: 20px;
 }
