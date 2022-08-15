@@ -12,6 +12,7 @@ body {
 p {
     font-size: 16px;
 }
+/* … */
 
 /* Header section */
 header {
@@ -20,6 +21,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+/* … */
 
 /* Top logo */
 h1 {
@@ -30,6 +32,7 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
+/* … */
 
 /* Nav bar options */
 nav {
@@ -46,8 +49,9 @@ nav {
     display: inline-block;
     margin-left: 25px;
 }
+/* … */
 
-/* background image of people working */
+/* Primary background image */
 #hero-background-image {
     /* Left as background image in css vs moving to HTML since it is a decorative image that does not need an alt tag */
     height: 800px;
@@ -57,6 +61,7 @@ nav {
     background-size: cover;
     background-position: center;
 }
+/* … */
 
 /* Main content section */
 .main-content {
@@ -74,25 +79,23 @@ article {
     color: #ffffff;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-img {
+.image-float-right {
+    float: right;
+    margin-left: 25px;
     max-height: 200px;
 }
 
 .image-float-left {
     float: left;
     margin-right: 25px;
+    max-height: 200px;
 }
 
-.image-float-right {
-    float: right;
-    margin-left: 25px;
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
-
+/* … */
 
 /* Aside section */
 .benefits {
@@ -122,6 +125,7 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
+/* … */
 
 /* Footer section */
 footer {
@@ -134,3 +138,4 @@ footer {
 h4 {
     font-size: 20px;
 }
+/* … */
