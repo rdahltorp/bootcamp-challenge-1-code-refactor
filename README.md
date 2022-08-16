@@ -12,12 +12,12 @@ The main learings I gained from this project were:
 
 ## Installation 
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To install and work on the refactored code, clone down the index.html, README.md, and assets folder (containing image and CSS files) to your machine and open in a source code editor. 
 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The purpose of the page is to educate possible consumers on Horiseon Social Solution Services' capabilities and rovide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
