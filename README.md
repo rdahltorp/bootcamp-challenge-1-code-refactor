@@ -23,6 +23,7 @@ When implemented on the site, the page will look like the following:
 
 ![Home page of the refactored code](./assets/images/final-page/horiseon-final-page.png)
 
+To view the application in action visit: https://rdahltorp.github.io/bootcamp-challenge-1-code-refactor/
 
 ## Credits
 
