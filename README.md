@@ -1,4 +1,4 @@
-# bootcamp-challenge-1-code-refactor
+# Bootcamp Challenge 1: Code Refactor
 
 ## Description
 
@@ -20,9 +20,9 @@ To install and work on the refactored code, clone down the index.html, README.md
 The purpose of the page is to provide Horiseon a place to send consumers to learn more about their capabilities and provide a place to educate consumers more on the basics of digital marketing and SEO.
  
 When implemented on the site, the page will look like the following:
-```md
+
 ![Home page of the refactored code](./assets/images/final-page/horiseon-final-page.png)
-```
+
 
 ## Credits
 
